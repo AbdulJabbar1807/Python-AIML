@@ -1,13 +1,4 @@
-# age = int(input("Enter your age : "))
-# is_license = False
-
-# can_drive = age>=18 and is_license  
-# if can_drive:
-#     print("You can drive!")
-# else:
-#     print("You can't drive!")
-
-# Code which i tried to run.
+# Can you drive?
 age = int(input("Enter your age : "))
 while True:
     is_license = input("Do you have driving license (yes/no) : ")
